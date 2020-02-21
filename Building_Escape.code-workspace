@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "UE_4.22",
+			"path": "/Users/Shared/Epic Games/UE_4.22"
+		},
+		{
+			"name": "Building-Escape",
+			"path": "."
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	}
+}
